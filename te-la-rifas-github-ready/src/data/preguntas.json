@@ -1,0 +1,38 @@
+[
+  {
+    "tema": "Civilizaciones",
+    "dificultad": "fácil",
+    "pregunta": "¿Ciudad prehispánica gigante?",
+    "respuesta": "Teotihuacan",
+    "opciones": [
+      "Teotihuacan",
+      "Palenque",
+      "Chichén Itzá",
+      "Monte Albán"
+    ]
+  },
+  {
+    "tema": "Independencia",
+    "dificultad": "intermedia",
+    "pregunta": "Líder de 1810?",
+    "respuesta": "Miguel Hidalgo",
+    "opciones": [
+      "Miguel Hidalgo",
+      "José María Morelos",
+      "Ignacio Allende",
+      "Vicente Guerrero"
+    ]
+  },
+  {
+    "tema": "Contemporáneo",
+    "dificultad": "difícil",
+    "pregunta": "Presidente neoliberal 80s?",
+    "respuesta": "Carlos Salinas de Gortari",
+    "opciones": [
+      "Carlos Salinas de Gortari",
+      "Ernesto Zedillo",
+      "Luis Echeverría",
+      "Felipe Calderón"
+    ]
+  }
+]
